@@ -1,3 +1,4 @@
 pandas==1.5.2
 nmrglue==0.10
 pandas-read-xml==0.3.1
+matplotlib==
